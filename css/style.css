@@ -1,0 +1,20 @@
+body  {
+    background-image: url(/images/949500_pop-art-andy-warhol-wallpaper-backgrounds_736x552_h.jpg);
+    background-repeat: no-repeat;
+    background-size: 1950px 1000px;
+}
+
+section > p {
+    font-family: lobster;
+}
+
+
+section > a {
+    text-decoration: none;
+    position: absolute; visibility: visible; right: 20px; top: 400px; height: 50px; width: 600px; z-index: 200;
+    font-family: 'Monoton', cursive;
+    font-size: 5rem;
+    color: #f5a2fe; 
+}
+
+
